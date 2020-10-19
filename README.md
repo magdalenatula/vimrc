@@ -39,7 +39,7 @@ highlight ColorColumn ctermbg=0 guibg=lightgrey
 "vim-plug - Vim plugin manager                                                  
 call plug#begin('~/.vim/plugged')                                               
                                                                                 
-Autocomplete, Flexible: configured like VSCode, extensions work like in        
+"Autocomplete, Flexible: configured like VSCode, extensions work like in        
 "VSCode,                                                                        
  Plug 'neoclide/coc.nvim', {'branch':'release'}                                  
  
